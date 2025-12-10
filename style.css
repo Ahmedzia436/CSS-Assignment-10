@@ -1,0 +1,275 @@
+/* body {
+    background: #0f1624;
+    font-family: Arial, sans-serif;
+    color: #e6e6e6;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 5px;
+}
+
+h1 span {
+    color: #2dd4ff;
+}
+
+.subtitle {
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+
+.subtitle span {
+    color: #ff4b5c;
+    font-weight: bold;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background: #162033;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+th {
+    background: #111a2c;
+    padding: 14px;
+    text-align: left;
+    font-size: 14px;
+    color: #6fa8dc;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+td {
+    padding: 16px;
+    border-bottom: 1px solid #1f2a44;
+    font-size: 16px;
+}
+
+tr:hover {
+    background-color: #fff35c;
+}
+
+.site-name {
+    color: #ff4b5c;
+    font-weight: bold;
+}
+
+.highlight {
+    background: #fff35c;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+/* } */ 
+/* body{
+    background-color:skyblue;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #92C8EE;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 400px;
+}
+
+.calculator {
+    background: black;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.display {
+    height: 80px;
+    color: white;
+    font-size: 60px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.buttons {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+
+button {
+    border: none;
+    width: 100%;
+    height: 65px;
+    border-radius: 50%;
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.top {
+    background: #b4b4b4;
+}
+
+.num {
+    background: #2f2f2f;
+    color: white;
+}
+
+.op {
+    background: #ff9800;
+    color: white;
+}
+
+
+.zero {
+    grid-column: span 2;
+    background: #2f2f2f;
+    color: white;
+    border-radius: 40px;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+header{
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 20px 60px;
+    display: flex;
+    justify-content:space-between;
+    align-items:center ;
+}
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    padding: 0;
+    margin: 0;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: 0.3s;
+}
+nav ul li a :hover{
+    color: orange;
+} */
+
+/* Universal Box Model Reset */
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f9;
+}
+
+/* --- Header & Navigation Styling --- */
+/* .site-header {
+    background: #2c3e50; /* Dark blue/gray ..*/ 
+    body {
+        margin: 0;
+        padding: 0;
+        background: #cfcfcf;
+        font-family: Arial, sans-serif;
+    }
+    
+    .container {
+        width: 300px;
+        margin: 60px auto;
+        background: #fff;
+        padding: 25px;
+        text-align: center;
+        border-radius: 12px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+    
+    .container h2 {
+        margin-bottom: 20px;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    
+    .task-input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        outline: none;
+        font-size: 14px;
+    }
+    
+    .add-btn {
+        width: 100%;
+        padding: 10px;
+        background: #32c730;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    .task-box {
+        background: #f4f4f4;
+        margin-top: 25px;
+        padding: 12px;
+        border-radius: 6px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .buttons button {
+        padding: 5px 12px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    
+    .edit {
+        background: #6e6e6e;
+        color: white;
+    }
+    
+    .delete {
+        background: red;
+        color: white;
+    }
+    
+
+    
+
+    
+       
+    
+
+    
